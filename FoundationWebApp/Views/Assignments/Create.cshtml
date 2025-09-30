@@ -1,0 +1,63 @@
+﻿@model FoundationWebApp.Models.Assignment
+
+@{
+    ViewData["Title"] = "Create Assignment";
+}
+
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+    <div class="card shadow-lg rounded-3 p-4" style="max-width: 900px; width: 100%;">
+        <div class="card-body">
+            <h2 class="text-center mb-4 fw-bold">Create Assignment</h2>
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="row g-3">
+                    <!-- Left Column -->
+                    <div class="col-md-6">
+                        <div class="form-floating mb-3">
+                            <input asp-for="Role" class="form-control" placeholder="Role" />
+                            <label asp-for="Role">Role</label>
+                            <span asp-validation-for="Role" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input asp-for="AssignedDate" type="date" class="form-control" placeholder="Assigned Date" />
+                            <label asp-for="AssignedDate">Assigned Date</label>
+                            <span asp-validation-for="AssignedDate" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <input asp-for="Status" class="form-control" placeholder="Status" />
+                            <label asp-for="Status">Status</label>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="col-md-6">
+                        <div class="form-floating mb-3">
+                            <select asp-for="Volunteer_ID" class="form-select" asp-items="ViewBag.Volunteer_ID"></select>
+                            <label asp-for="Volunteer_ID">Volunteer</label>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <select asp-for="Disaster_ID" class="form-select" asp-items="ViewBag.Disaster_ID"></select>
+                            <label asp-for="Disaster_ID">Disaster</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-primary btn-lg px-4 me-2">Create</button>
+                    <a asp-action="Index" class="btn btn-outline-secondary btn-lg px-4">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

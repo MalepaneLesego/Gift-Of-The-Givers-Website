@@ -1,0 +1,71 @@
+﻿@model FoundationWebApp.Models.Volunteer
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="d-flex justify-content-center py-5">
+    <div class="card shadow p-4" style="max-width: 700px; width: 100%;">
+        <h2 class="text-center mb-4">Volunteer Details</h2>
+
+        <dl class="row mb-4">
+            <dt class="col-sm-4">First Name</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.FirstName)</dd>
+
+            <dt class="col-sm-4">Last Name</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.LastName)</dd>
+
+            <dt class="col-sm-4">Email</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.Email)</dd>
+
+            <dt class="col-sm-4">Phone</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.Phone)</dd>
+
+            <dt class="col-sm-4">Skills</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.Skills)</dd>
+
+            <dt class="col-sm-4">Location</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.Location)</dd>
+
+            <dt class="col-sm-4">Availability Status</dt>
+            <dd class="col-sm-8">
+                
+            </dd>
+
+            <dt class="col-sm-4">User</dt>
+            <dd class="col-sm-8">@Html.DisplayFor(model => model.User.Email)</dd>
+        </dl>
+
+        <div class="text-center">
+            <a asp-action="Edit" asp-route-id="@Model?.Volunteer_ID" class="btn btn-warning btn-lg me-2">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 12px;
+        background-color: #fff;
+    }
+
+    dl dt {
+        font-weight: 600;
+        color: #555;
+        margin-bottom: 0.5rem;
+    }
+
+    dl dd {
+        margin-bottom: 1rem;
+    }
+
+    .badge {
+        font-size: 0.9rem;
+        padding: 0.4em 0.75em;
+        border-radius: 0.5rem;
+    }
+
+    .btn-lg {
+        min-width: 120px;
+    }
+</style>

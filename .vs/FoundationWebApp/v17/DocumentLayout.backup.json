@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\assignments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\assignments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\volunteers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\donationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\disasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\disasterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\donations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\donations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\disaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\disaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\donations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\disasters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\disasters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\disasters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\disasters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\disasters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\disasters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\disasters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\disasters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\volunteers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\volunteers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\volunteers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\volunteers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\volunteers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\volunteerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|c:\\users\\chick\\source\\repos\\foundationwebapp\\foundationwebapp\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B269A4A-4605-4AA9-8836-E27F5480077E}|FoundationWebApp\\FoundationWebApp.csproj|solutionrelative:foundationwebapp\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Assignments\\Create.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Assignments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Assignments\\Create.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Assignments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T02:05:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Create.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Donations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Create.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Donations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:43:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Disasters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Index.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Disasters\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:26:36.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisastersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\DisastersController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\DisastersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\DisastersController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\DisastersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:24:47.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Disaster.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Disaster.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\Disaster.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Disaster.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\Disaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:37:22.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\User.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:34:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\Resource.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Resource.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:38:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T01:55:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\AssignmentsController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\AssignmentsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\AssignmentsController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\AssignmentsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAG4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:53:11.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Assignments\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Assignments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Assignments\\Index.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Assignments\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T02:04:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Volunteers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Index.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Volunteers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:50:24.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Donations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Edit.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Donations\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:49:24.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\DonationsController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\DonationsController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\DonationsController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\DonationsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:23:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Donation.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\Donation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:36:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Details.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Donations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Details.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Donations\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:37:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Donations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Donations\\Index.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Donations\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:37:31.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:28:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Create.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Disasters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Create.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Disasters\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:30:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Details.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Disasters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Details.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Disasters\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:34:53.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Disasters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Disasters\\Edit.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Disasters\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:34:57.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Details.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Volunteers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Details.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Volunteers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:21:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Volunteer.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:35:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VolunteersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\VolunteersController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\VolunteersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\VolunteersController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\VolunteersController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T00:49:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:50:00.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:33:34.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T01:53:40.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Volunteers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Delete.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Volunteers\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:18:53.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FoundationWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T00:48:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Create.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Volunteers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Volunteers\\Create.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Volunteers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:59:16.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:31:27.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Program.cs",
+              "RelativeToolTip": "FoundationWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:43:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FoundationWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:37:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:53:30.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FoundationWebApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:41:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoundationWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:51:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FoundationWebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FoundationWebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-23T01:48:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FoundationWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\appsettings.json",
+              "RelativeToolTip": "FoundationWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T01:46:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "FoundationWebApp\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Chick\\Source\\Repos\\FoundationWebApp\\FoundationWebApp\\Models\\Assignment.cs",
+              "RelativeToolTip": "FoundationWebApp\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:36:59.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@model FoundationWebApp.Models.Donation
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Donation</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DonorName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DonorName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DonationDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DonationDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Resource)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Resource.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Disaster)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Disaster.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Donation_ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
